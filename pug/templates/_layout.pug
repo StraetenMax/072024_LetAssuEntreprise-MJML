@@ -1,0 +1,41 @@
+mjml
+    mj-head
+        mj-title Lettre Ecosup Assurance - Entreprise Mai 2024
+        mj-attributes
+            mj-all(font-family='Arial, Helvetica, sans-serif')/
+            mj-text(font-size='16px' font-weight='300' line-height='20px' color='#2D3748')/
+        mj-raw.
+            <meta name="color-scheme" content="light"></meta>
+            <meta name="supported-color-schemes" content="light"></meta>
+        mj-breakpoint(width='480px')/
+        mj-style.
+           .hover:hover td, .hover:hover a{
+             background-color: #684092 !important;
+           }
+            
+    mj-body(background-color='#fcfcfc')
+        block esa
+            include ../includes/_esa
+        
+        block hero
+            include ../includes/_hero
+
+        block bandeau
+            include ../includes/_01bandeau
+
+        block dossier
+            include ../includes/_dossier
+        
+        block article 1
+            include ../includes/_article1
+        
+        block article 03
+            include ../includes/_03article
+        
+        block article 3
+            include ../includes/_article3
+        
+        block article 4
+            include ../includes/_TA
+        
+        block content
