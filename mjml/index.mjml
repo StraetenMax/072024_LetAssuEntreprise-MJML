@@ -1,0 +1,149 @@
+
+<mjml>
+  <mj-head>
+    <mj-title>Lettre Ecosup Assurance - Entreprise Juillet 2024</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Arial, Helvetica, sans-serif"/>
+      <mj-text font-size="16px" font-weight="300" line-height="20px" color="#2D3748"/>
+    </mj-attributes>
+    <mj-raw>
+      <meta name="color-scheme" content="light"></meta>
+      <meta name="supported-color-schemes" content="light"></meta>
+    </mj-raw>
+    <mj-breakpoint width="480px"/>
+    <mj-style>
+      .hover:hover td, .hover:hover a{
+        background-color: #684092 !important;
+      }
+       
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#fcfcfc">
+    <mj-section background-color="#270938" padding="0">
+      <mj-group width="480px">
+        <mj-column width="20%" padding-top="8px" padding-bottom="8px" padding-right="8px" vertical-align="middle">
+          <mj-image padding="0" border="0" width="50px" align="right" src="https://i.ibb.co/xYKFMzh/logoESA.jpg" alt="logo ESA (École Supérieure Assurance)"/>
+        </mj-column>
+        <mj-column width="80%" padding-top="8px" padding-bottom="8px" padding-left="8px" vertical-align="middle">
+          <mj-text padding="0" font-size="16px" line-height="20px" font-weight="300" color="#ffffff">Ecosup Assurance partenaire de l'ESA Paris <span style="font-style:italic">(École Supérieure d'Assurance)</span></mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section background-color="#EDF2F7" padding-top="20px" padding-bottom="5px" padding-left="0px" padding-right="0px">
+      <mj-group width="95%"> 
+        <mj-column width="50%" padding="10px">
+          <mj-image align="left" padding="0" border="none" width="256px" src="https://img.mailinblue.com/3403292/images/content_library/original/65eb2771d0c8d6691c4e4e7c.png" href="https://ecosup-assurance.fr" alt="Logo Ecosup Assurance"/>
+        </mj-column>
+        <mj-column width="50%" padding="10px">
+          <mj-image align="right" padding="0" border="none" width="150px" src="https://img.mailinblue.com/3403292/images/content_library/original/65eb277b6d8c909673de86c1.png" alt="Logo de la Newsletter"/> 
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section background-color="#EDF2F7" padding="0">
+      <mj-column width="95%">
+        <mj-social align="right" padding-top="0" padding-bottom="0" padding-left="10px" padding-right="10px" icon-size="30px" mode="horizontal">
+          <mj-social-element src="https://img.mailinblue.com/3403292/images/content_library/original/660d604fd0d41f3120a8cdf5.png" href="https://www.facebook.com/EcosupAssurance/" alt="icon Facebook"></mj-social-element>
+          <mj-social-element src="https://img.mailinblue.com/3403292/images/content_library/original/660d605a373b24d832a3970d.png" href="https://www.instagram.com/ecosup.campus/" alt="icon Instagram"></mj-social-element>
+          <mj-social-element src="https://img.mailinblue.com/3403292/images/content_library/original/660d6047d0d41f3120a8cdec.png" href="https://linkedin.com/company/ecosup-campus" alt="icon Linkedin">    </mj-social-element>
+          <mj-social-element src="https://img.mailinblue.com/3403292/images/content_library/original/660d60657236a3846ef846ba.png" href="https://www.youtube.com/@EcoSupAssurance" alt="icon Youtube">    </mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#EDF2F7" padding="0">
+      <mj-column width="95%">
+        <mj-text padding="5px 10px" align="left" font-size="16px" font-weight="300" color="#2D3748"><span style="font-weight:700;text-transform:uppercase">News Ecosup Assurance</span> | Juillet 2024  </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#EDF2F7" padding="0px">
+      <mj-column width="100%">
+        <mj-image padding="0" border="none" fluid-on-mobile="true" width="600px" target="_blank" src="https://i.ibb.co/nB4tywN/news-Bandeau-E-072024.jpg" alt="Lumière de la ville la nuit avec portrait de Christian ANNALORO, responsable pédagogique d'Ecosup Assurance"/>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#EDF2F7" padding-top="10px" padding-bottom="40px">
+      <mj-column width="88%"> 
+        <mj-text padding-top="5px" padding-bottom="0" font-size="14px" font-weight="900" line-height="18px" text-transform="uppercase" color="#944694">Édito</mj-text>
+        <mj-text padding-top="5px" padding-bottom="0" font-style="italic" font-size="16px" font-weight="500" line-height="20px">Une année scolaire s'achève et une autre s'ouvre... <span style="font-weight:700">La rentrée 2024 arrive à grands pas</span>.</mj-text>
+        <mj-text padding-top="5px" padding-bottom="0" font-style="italic" font-size="16px" font-weight="500" line-height="20px">Je tenais à <span style="font-weight:700">remercier l'ensemble de nos entreprises partenaires</span> qui nous ont fait confiance et qui donnent une chance et une opportunité unique à nos élèves au travers d'un contrat d'alternance. C'est un engagement pour l'entreprise qui accueillera et accompagnera l'élève dans sa montée en compétence et l'obtention de son diplôme. Nous en sommes conscients ! et c'est pourquoi vous pourrez compter sur notre engagement sans faille. C'est notre ADN ! </mj-text>
+        <mj-text padding-top="5px" padding-bottom="0" font-style="italic" font-size="16px" font-weight="500" line-height="20px">Certains de nos élèves n'ont pas encore eu la chance de trouver leur contrat. C'est pourquoi je vous propose à nouveau de <span style="font-weight:700">rencontrer nos candidats</span> et de transmettre auprès de vos partenaires, contacts... le profil de ces jeunes qui ont aujourd'hui besoin de vous. Retrouvez-les dans notre <span style="font-weight:700">CV-Book</span>.</mj-text>
+        <mj-text padding-top="5px" padding-bottom="0" font-style="italic" font-size="16px" font-weight="500" line-height="20px">Je reste encore et toujours à votre entière disposition !</mj-text>
+        <mj-text padding-top="5px" padding-bottom="0" font-style="italic" font-size="16px" font-weight="500" line-height="20px">Je vous souhaite de merveilleuses vacances avec l'impatience de vous retrouver pour cette année de formation 2024-2025.</mj-text>
+        <mj-text padding-bottom="0" font-style="italic" font-size="16px" font-weight="500" line-height="20px">À très vite.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding-left="17px" padding-right="17px">
+      <mj-column width="30%" padding="8px">
+        <mj-image padding="0" border="none" fluid-on-mobile="true" target="_blank" src="https://i.ibb.co/MM5TPTy/news01-072024.jpg" href="https://ecosup-assurance.fr/assurance-vie-changements-reglementaires-performances/" alt="Représentation de l'Assurance vie : des mains protégent une famille, deux enfants et deux parents"/>
+      </mj-column>
+      <mj-column width="70%" padding="8px">
+        <mj-text padding="0" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase">Actualités Assurance</mj-text>
+        <mj-text padding="5px 0 0 0" align="left" font-size="20px" font-weight="700" line-height="24px" color="#684092">L'Assurance vie en juin 2024 : un contexte marqué par des changements réglementaires et des performances en demi-teinte</mj-text>
+        <mj-text padding="0" font-size="16px" line-height="20px" font-weight="400"> 
+          <p style="margin:10px 0;">Le mois de juin a été marqué par <span style="font-weight:700;">deux arrêtés importants</span> en matière d'<span style="font-weight:700">Assurance vie</span> :</p>
+          <p style="margin:10px 0;">- Arrêté du 12 juin 2024 <span style="font-weight:700;">améliorant l'exercice du devoir de conseil</span> en ce qui concerne les contrats de capitalisation et certains contrats d'<span style="font-weight:700">Assurance vie</span>...</p>
+          <p style="margin:10px 0;">- Arrêté du 12 juin 2024 portant sur <span style="font-weight:700;">l'article L. 112-6 du code des assurances</span>...  </p>
+        </mj-text>
+        <mj-text align="right" color="#BA4995" font-weight="700"><a href="https://ecosup-assurance.fr/assurance-vie-changements-reglementaires-performances/" style="color:#BA4995;text-decoration:none;" target="_blank">Lire la suite...</a></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#EDF2F7" padding-left="17px" padding-right="17px">
+      <mj-column width="30%" padding="8px">
+        <mj-image padding="0" border="none" fluid-on-mobile="true" target="_blank" src="https://i.ibb.co/tJtZDcY/news-E3bis-072024.jpg" href="https://urlz.fr/rpqc" alt="Image de la campagne Soptify avec le logo Spotify"/>
+      </mj-column>
+      <mj-column width="70%" padding="8px">
+        <mj-text padding="0" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase">Évènement </mj-text>
+        <mj-text padding="5px 0 0 0" align="left" font-size="20px" font-weight="700" line-height="24px" color="#684092">Ecosup Assurance, toujours proche des jeunes : nouvelle campagne Spotify</mj-text>
+        <mj-text padding="0" font-size="16px" line-height="20px" font-weight="400"> 
+          <p style="margin:10px 0;">Toujours proche et à la rencontre des jeunes de la région au travers des Salons Étudiant, évènements associatifs locaux... C'est aujourd'hui sur la <span style="font-weight:700">plateforme de Podcast préférée des jeunes : Spotify</span> que notre école rayonne avec une campagne qui a touché près de <span style="font-weight:700">84.000 jeunes de la région</span> !</p>
+          <p style="margin:10px 0;"><span style="font-weight:700">Être partenaire d'EcoSup</span>, c'est être partenaire d'un groupe qui bouge et c'est l'assurance d'être toujours présent auprès des jeunes et des futurs talents !</p>
+        </mj-text>
+        <mj-text align="right" color="#BA4995" font-weight="700"><a href="https://urlz.fr/rpqc" style="color:#BA4995;text-decoration:none;" target="_blank">Écouter l'annonce...</a></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding-left="17px" padding-right="17px">
+      <mj-column width="30%" padding="8px">
+        <mj-image padding="0" border="none" fluid-on-mobile="true" target="_blank" src="https://i.ibb.co/PZRQQsp/news-E3-072024.jpg" href="https://ecosup-assurance.fr/cv-book/" alt="Couverture du nouveau CV Book avec de nouveaux étudiants"/>
+      </mj-column>
+      <mj-column width="70%" padding="8px">
+        <mj-text padding="0" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase">Actualités Ecosup</mj-text>
+        <mj-text padding="5px 0 0 0" align="left" font-size="20px" font-weight="700" line-height="24px" color="#684092">Nouvelle édition du CV Book... nouveaux Talents à découvrir</mj-text>
+        <mj-text padding="0" font-size="16px" line-height="20px" font-weight="400"> 
+          <p style="margin:10px 0;">EcoSup Assurance continue de briller, attirant un flux constant de nouveaux talents. Notre <span style="font-weight:700">CV Book actualisé</span> est une vitrine des candidats prometteurs prêts à devenir les forces vives de votre entreprise. Pour découvrir ces profils d'exception, n'hésitez pas à télécharger le <span style="font-weight:700">CV Book </span> code : <span style="font-weight:700">CVBOOK072024</span> .</p>
+          <p style="margin:10px 0;">Je reste à votre entière disposition pour discuter des candidats qui correspondent à vos besoins et aspirations.</p>
+        </mj-text>
+        <mj-text align="right" color="#BA4995" font-weight="700"><a href="https://ecosup-assurance.fr/cv-book/" style="color:#BA4995;text-decoration:none;" target="_blank">Télécharger...</a></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#EDF2F7" padding-left="17px" padding-right="17px">
+      <mj-column width="30%" padding="8px">
+        <mj-image padding="0" border="none" fluid-on-mobile="true" target="_blank" src="https://i.ibb.co/m41cdpm/news-E4-072024.jpg" href="https://kellyservices.fr/kelly/qui-sommes-nous" alt="Logo de Kelly services et GI-Group"/>
+      </mj-column>
+      <mj-column width="70%" padding="8px">
+        <mj-text padding="0" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase">Nouveau</mj-text>
+        <mj-text padding="5px 0 0 0" align="left" font-size="20px" font-weight="700" line-height="24px" color="#684092">Partenariat Ecosup Assurance & Kelly  Services Gi-Group</mj-text>
+        <mj-text padding="0" font-size="16px" line-height="20px" font-weight="400"> 
+          <p style="margin:10px 0;">Nous sommes heureux de vous annoncer notre partenariat avec <span style="font-weight:700">Kelly Services Gi Group</span>, acteur mondial du recrutement. Notre partenaire accompagnera nos étudiants à la recherche d'un emploi, coachera nos élèves dans leur recherche d'un contrat d'alternance au travers d'ateliers et de conférences...</p>
+          <p style="margin:10px 0"><span style="font-weight:700">Kelly services</span> en quelques chiffres :</p>
+          <ul style="margin:0; padding-left:12px">
+            <li><span style="font-weight:700;">1972</span> création de l'entreprise,</li>
+            <li><span style="font-weight:700;">2000 à 2008</span>, acquisitions clés et développement de sa présence mondiale dans 40 pays.</li>
+            <li>Aujourd'hui, <span style="font-weight:700;">55 bureaux répartis partout en France</span> et plus de <span style="font-weight:700">250 collaborateurs opérationnels experts</span> pour répondre aux besoins de talents et de clients.                                                                                             </li>
+          </ul>
+          <p style="margin:10px 0;">C'est un grand pas pour notre école mais surtout une opportunité unique pour nos élèves!  </p>
+        </mj-text>
+        <mj-text align="right" color="#BA4995" font-weight="700"><a href="https://kellyservices.fr/kelly/qui-sommes-nous" style="color:#BA4995;text-decoration:none;" target="_blank">Lire la suite...</a></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#270938" padding="20px 32px">
+      <mj-column width="320px">
+        <mj-image width="140px" padding="0" border="none" align="center" target="_blank" src="https://i.ibb.co/8K8y4kW/ECOSUP-CAMPUS-Blanc012024.png" href="https://ecosup-campus.com" alt="Logo Ecosup Campus"/>
+        <mj-text padding="0" align="center" font-size="12px" font-weight="300" line-height="16px" color="#fcfcfc">17 rue Charles et Albert Roussel</mj-text>
+        <mj-text padding="0" align="center" font-size="12px" font-weight="300" line-height="16px" color="#fcfcfc" text-transform="uppercase">59200 Tourcoing</mj-text>
+        <mj-text padding="0" align="center" font-size="12px" font-weight="700" line-height="16px" color="#fcfcfc"><a style="text-decoration:none;color:#fcfcfc;" href="tel:0320700606">Tél 03.20.70.06.06</a>               </mj-text>
+        <mj-text padding="0 0 25px 0" align="center" font-size="12px" font-weight="300" line-height="16px" color="#fcfcfc"><a style="text-decoration:none;color:#fcfcfc;" href="mailto:contact@ecosup-campus.fr">contact@ecosup-campus.fr</a></mj-text>
+        <mj-text padding="0" align="center" font-size="12px" font-weight="300" line-height="16px" color="#fcfcfc">Si vous n'arrivez pas à lire cet email, cliquez <a style="color:#BA4995;text-transform:uppercase;text-decoration:none;font-weight:700" href="{{ mirror}}">ici</a>           </mj-text>
+        <mj-text padding="0" align="center" font-size="12px" font-weight="300" line-height="16px" color="#fcfcfc">Pour être sûr(e) de recevoir nos communications, ajoutez <a style="text-decoration:none;color:#fcfcfc;" href="mailto:contact@ecosup-campus.fr">contact@ecosup-campus.fr</a> dans votre carnet d'adresses.</mj-text>
+        <mj-text padding="0" align="center" font-size="12px" font-weight="300" line-height="16px" color="#fcfcfc">Pour vous désinscrire, cliquez <a style="color:#BA4995;text-transform:uppercase;text-decoration:none;font-weight:700;" href="{{ unsubscribe }}">ici</a></mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
