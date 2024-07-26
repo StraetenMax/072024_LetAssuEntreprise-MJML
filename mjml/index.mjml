@@ -7,8 +7,12 @@
       <mj-text font-size="16px" font-weight="300" line-height="20px" color="#2D3748"/>
     </mj-attributes>
     <mj-raw>
-      <meta name="color-scheme" content="light"></meta>
-      <meta name="supported-color-schemes" content="light"></meta>
+      <meta name="color-scheme" content="light"/>
+      <meta name="supported-color-schemes" content="light"/>
+      <meta name="format-detection" content="telephone=no"/>
+      <meta name="format-detection" content="date=no"/>
+      <meta name="format-detection" content="address=no"/>
+      <meta name="format-detection" content="email=no"/>
     </mj-raw>
     <mj-breakpoint width="480px"/>
     <mj-style>
@@ -56,7 +60,7 @@
     </mj-section>
     <mj-section background-color="#EDF2F7" padding="0px">
       <mj-column width="100%">
-        <mj-image padding="0" border="none" fluid-on-mobile="true" width="600px" target="_blank" src="https://i.ibb.co/nB4tywN/news-Bandeau-E-072024.jpg" alt="Lumière de la ville la nuit avec portrait de Christian ANNALORO, responsable pédagogique d'Ecosup Assurance"/>
+        <mj-image padding="0" border="none" fluid-on-mobile="true" width="600px" target="_blank" src="https://i.ibb.co/23SLnrp/news-Bandeau01072024.jpg" alt="Groupe d'étudiants entrain de travailler avec portrait de Christian ANNALORO, responsable pédagogique d'Ecosup Assurance"/>
       </mj-column>
     </mj-section>
     <mj-section background-color="#EDF2F7" padding-top="10px" padding-bottom="40px">
@@ -130,7 +134,7 @@
           </ul>
           <p style="margin:10px 0;">C'est un grand pas pour notre école mais surtout une opportunité unique pour nos élèves!  </p>
         </mj-text>
-        <mj-text align="right" color="#BA4995" font-weight="700"><a href="https://kellyservices.fr/kelly/qui-sommes-nous" style="color:#BA4995;text-decoration:none;" target="_blank">Lire la suite...</a></mj-text>
+        <mj-text align="right" color="#BA4995" font-weight="700"><a href="https://kellyservices.fr/kelly/qui-sommes-nous" style="color:#BA4995;text-decoration:none;" target="_blank">En savoir plus...</a></mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#270938" padding="20px 32px">
