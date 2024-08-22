@@ -70,7 +70,7 @@
         <mj-text padding-top="5px" padding-bottom="0" font-style="italic" font-size="16px" font-weight="500" line-height="20px">Je tenais à <span style="font-weight:700">remercier l'ensemble de nos entreprises partenaires</span> qui nous ont fait confiance et qui donnent une chance et une opportunité unique à nos élèves au travers d'un contrat d'alternance. C'est un engagement pour l'entreprise qui accueillera et accompagnera l'élève dans sa montée en compétence et l'obtention de son diplôme. Nous en sommes conscients ! et c'est pourquoi vous pourrez compter sur notre engagement sans faille. C'est notre ADN ! </mj-text>
         <mj-text padding-top="5px" padding-bottom="0" font-style="italic" font-size="16px" font-weight="500" line-height="20px">Certains de nos élèves n'ont pas encore eu la chance de trouver leur contrat. C'est pourquoi je vous propose à nouveau de <span style="font-weight:700">rencontrer nos candidats</span> et de transmettre auprès de vos partenaires, contacts... le profil de ces jeunes qui ont aujourd'hui besoin de vous. Retrouvez-les dans notre <span style="font-weight:700">CV-Book</span>.</mj-text>
         <mj-text padding-top="5px" padding-bottom="0" font-style="italic" font-size="16px" font-weight="500" line-height="20px">Je reste encore et toujours à votre entière disposition !</mj-text>
-        <mj-text padding-top="5px" padding-bottom="0" font-style="italic" font-size="16px" font-weight="500" line-height="20px">Je vous souhaite de merveilleuses vacances avec l'impatience de vous retrouver pour cette année de formation 2024-2025.</mj-text>
+        <mj-text padding-top="5px" padding-bottom="0" font-style="italic" font-size="16px" font-weight="500" line-height="20px">Je vous souhaite de merveilleuses vacances avec l'impatience de vous retrouver pour cette année de formation 2024 - 2025.</mj-text>
         <mj-text padding-bottom="0" font-style="italic" font-size="16px" font-weight="500" line-height="20px">À très vite.</mj-text>
       </mj-column>
     </mj-section>
@@ -83,10 +83,10 @@
         <mj-text padding="5px 0 0 0" align="left" font-size="20px" font-weight="700" line-height="24px" color="#684092">L'Assurance vie en juin 2024 : un contexte marqué par des changements réglementaires et des performances en demi-teinte</mj-text>
         <mj-text padding="0" font-size="16px" line-height="20px" font-weight="400"> 
           <p style="margin:10px 0;">Le mois de juin a été marqué par <span style="font-weight:700;">deux arrêtés importants</span> en matière d'<span style="font-weight:700">Assurance vie</span> :</p>
-          <p style="margin:10px 0;">- Arrêté du 12 juin 2024 <span style="font-weight:700;">améliorant l'exercice du devoir de conseil</span> en ce qui concerne les contrats de capitalisation et certains contrats d'<span style="font-weight:700">Assurance vie</span>...</p>
-          <p style="margin:10px 0;">- Arrêté du 12 juin 2024 portant sur <span style="font-weight:700;">l'article L. 112-6 du code des assurances</span>...  </p>
+          <p style="margin:10px 0;">- <span style="font-weight:700;">Arrêté du 12 juin 2024</span> améliorant l'exercice du devoir de conseil en ce qui concerne les contrats de capitalisation et certains contrats d'<span style="font-weight:700">Assurance vie</span>...</p>
+          <p style="margin:10px 0;">- <span style="font-weight:700">Arrêté du 12 juin 2024</span> portant sur l'article L. 112-6 du code des assurances...  </p>
         </mj-text>
-        <mj-text align="right" color="#BA4995" font-weight="700"><a href="https://ecosup-assurance.fr/assurance-vie-changements-reglementaires-performances/" style="color:#BA4995;text-decoration:none;" target="_blank">Lire la suite...</a></mj-text>
+        <mj-text align="right" color="#BA4995" font-weight="700"><a href="https://ecosup-assurance.fr/assurance-vie-changements-reglementaires-performances/" style="color:#BA4995;text-decoration:none;" target="_blank">Lire la suite...</a> </mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#EDF2F7" padding-left="17px" padding-right="17px">
